@@ -39,7 +39,7 @@ header {
 }
 
 .column {
-    padding: 0 50px 0 0;
+    padding-right: auto;
 }
 
 h1 {
