@@ -23,7 +23,7 @@ header {
 }
 
 #content {
-    height: 700px;
+    height: 800px;
     width: 100%;
     position: relative;
     top: 800px;
@@ -39,7 +39,7 @@ header {
 }
 
 .column {
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    width:100%;
 }
 
 h1 {
