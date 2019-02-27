@@ -23,7 +23,9 @@ header {
 }
 
 #content {
-    height: 600px;
+    height: auto;
+    min-height:600px;
+    max-height:1000px;
     width: 100%;
     position: relative;
     top: 800px;
