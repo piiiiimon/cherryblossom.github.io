@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Chonburi|Gloria+Hallelujah|Open+Sans+Condensed:300|Pacifico');
+
+body {
+    text-align: center;
+}
+
+header {
+    height: 100px;
+    background: #bfbfbf;
+    width: 100%;
+    position: fixed;
+    z-index: 10;
+    padding: 0 100px 0 100px;
+}
+
+#banner {
+    height: 1000px;
+    width: 100%;
+    position: fixed;
+    top: 100px;
+    background-image: url(https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-size: cover;
+}
+
+#content {
+    height: 700px;
+    width: 100%;
+    position: relative;
+    top: 800px;
+    background: #ffffff;
+    padding: 50px 100px 0 100px;
+}
+
+#bannertext {
+    line-height: 600px;
+    font-size: 40px;
+    color: #ffffff;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.column {
+    padding: 0 50px 0 0
+}
+
+h1 {
+    line-height: 100px;
+    font-size: 50px;
+    color: #ffffff;
+    font-family: 'Chonburi', cursive;
+}
+
+h2 {
+    line-height: 100px;
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Pacifico', cursive;
+}
+
+h3 {
+    line-height: 100px;
+    font-size: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #ffffff;
+    
+}
+
+p {
+    text-align: justify
+}
