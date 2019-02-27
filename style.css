@@ -39,7 +39,8 @@ header {
 }
 
 .column {
-    width:100%;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
 }
 
 h1 {
