@@ -39,7 +39,9 @@ header {
 }
 
 .column {
-    padding-right: auto;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 h1 {
