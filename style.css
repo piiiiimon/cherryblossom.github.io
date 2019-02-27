@@ -43,8 +43,7 @@ header {
 }
 
 .column {
-    width: auto;
-    padding-right:50px;
+    padding-right: auto;
 }
 
 h1 {
