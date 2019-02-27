@@ -40,8 +40,7 @@ header {
 
 .column {
     width: fit-content;
-    margin-left: auto;
-    margin-right: auto;
+    padding-right: 50px auto;
 }
 
 h1 {
