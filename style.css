@@ -38,9 +38,13 @@ header {
     font-family: 'Open Sans Condensed', sans-serif;
 }
 
+.row {
+    width:100%;
+}
+
 .column {
-    width: fit-content;
-    padding-right: 50px auto;
+    width: auto;
+    padding-right:50px;
 }
 
 h1 {
